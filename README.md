@@ -1,3 +1,3 @@
 # bits-website
 
-HEAHKEH
+BITS Website Project
